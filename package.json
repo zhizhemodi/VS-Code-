@@ -73,10 +73,6 @@
     "lint": "eslint src --ext ts",
     "test": "node ./out/test/runTest.js"
   },
-  "dependencies": {
-    "path": "^0.12.7",
-    "vscode": "^1.1.37"
-  },
   "devDependencies": {
     "@types/mocha": "^5.2.7",
     "@types/node": "^12.20.42",
