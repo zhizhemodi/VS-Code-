@@ -61,6 +61,10 @@
       }
     }
   },
+  "repository": {
+    "url": "https://github.com/zhizhemodi/VS-Code-theme-control.git",
+    "type": "git"
+  },
   "scripts": {
     "vscode:prepublish": "npm run compile",
     "compile": "tsc -p ./",
